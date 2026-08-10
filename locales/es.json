@@ -8,7 +8,7 @@
   "nav_descargar_cv": "📄 Descargar CV",
   "hero_titulo": "Rodrigo López",
   "hero_subtitulo": "Sobre mí",
-  "hero_bio": "Soy Rodrigo López, un entusiasta programador FullStack con especialización en Python. A mis 22 años, me gradué como Técnico en Desarrollo de Software y me apasiona trabajar con distintas tecnologías para crear soluciones innovadoras y eficientes.",
+  "hero_bio": "Soy Rodrigo López, Técnico en Desarrollo de Software y estudiante de Ingeniería en Sistemas. Me recibí a los 22 años y me apasiona utilizar distintas tecnologías para crear soluciones innovadoras. Actualmente desarrollo proyectos web, como una plataforma de tarjetas virtuales, y gestiono la presencia digital para clientes, además de documentar mi proceso de aprendizaje en mi cuenta de Instagram @aprendiendo.it.",
   "contacto_titulo": "🗣️📞Contacto",
   "contacto_mail": "📧Mail: rodrigoemiliolopez19@gmail.com",
   "contacto_cel": "📱Celular: +543772614298",
@@ -20,7 +20,13 @@
   "portfolio_btn_horarios": "Software de horarios",
   "portfolio_btn_libreria": "Software de libreria",
   "portfolio_btn_taller": "Software de taller mecanico",
-
+  "portfolio_btn_estudio": "Web de Cliente",
+  "portfolio_btn_tarjetas": "Tarjetas Virtuales",
+  "portfolio_btn_ig": "Instagram @aprendiendo.it",
+  
+  "modal_estudio_title": "Imágenes de la Web",
+  "modal_tarjetas_title": "Plataforma de Tarjetas Virtuales",
+  "modal_ig_title": "Contenido en @aprendiendo.it",
   "modal_ventas_title": "Imágenes de Ventas",
   "modal_horarios_title": "Imágenes de Horarios",
   "modal_libreria_title": "Imágenes de Librería",

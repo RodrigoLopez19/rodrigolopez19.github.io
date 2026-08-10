@@ -8,7 +8,7 @@
   "nav_descargar_cv": "📄 Baixar CV",
   "hero_titulo": "Rodrigo López",
   "hero_subtitulo": "Sobre mim",
-  "hero_bio": "Eu sou Rodrigo López, um entusiasta programador FullStack com especialização em Python. Aos 22 anos, me formei como Técnico em Desenvolvimento de Software e sou apaixonado por trabalhar com diferentes tecnologias para criar soluções inovadoras e eficientes.",
+  "hero_bio": "Sou Rodrigo López, Técnico em Desenvolvimento de Software e estudante de Engenharia de Sistemas. Me formei aos 22 anos e sou apaixonado por usar diferentes tecnologias para criar soluções inovadoras. Atualmente, desenvolvo projetos web, como uma plataforma de cartões virtuais, e gerencio a presença digital para clientes, além de documentar meu processo de aprendizado na minha conta do Instagram @aprendiendo.it.",
   "contacto_titulo": "🗣️📞Contato",
   "contacto_mail": "📧Email: rodrigoemiliolopez19@gmail.com",
   "contacto_cel": "📱Celular: +543772614298",
@@ -19,10 +19,18 @@
   "portfolio_btn_horarios": "Software de Horários",
   "portfolio_btn_libreria": "Software de Livraria",
   "portfolio_btn_taller": "Software de Oficina Mecânica",
+  "portfolio_btn_estudio": "Site de Cliente",
+  "portfolio_btn_tarjetas": "Cartões Virtuais",
+  "portfolio_btn_ig": "Instagram @aprendiendo.it",
+  
+  "modal_estudio_title": "Imagens do Site",
+  "modal_tarjetas_title": "Plataforma de Cartões Virtuais",
+  "modal_ig_title": "Conteúdo em @aprendiendo.it",   
   "modal_ventas_title": "Imagens de Vendas",
   "modal_horarios_title": "Imagens de Horários",
   "modal_libreria_title": "Imagens de Livraria",
   "modal_taller_title": "Imagens de Oficina Mecânica",
+
 
   "moreinfo_title": "📝Mais Sobre Mim",
   "formacion_title": "Formação",
